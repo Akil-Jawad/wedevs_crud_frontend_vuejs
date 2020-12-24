@@ -1,0 +1,18 @@
+/* .blockquote {
+  padding: 16px 16px 16px 16px;
+} */
+.row {
+  padding: 0px 16px 16px 16px;
+}
+.task_header {
+  justify-content: center;
+}
+.task_header h3 {
+  text-align: center;
+}
+.layout {
+  margin: 50px;
+  background-color: whitesmoke;
+  border-radius: 20px;
+  opacity: 0.8;
+}
